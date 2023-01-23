@@ -1,0 +1,72 @@
+body {
+    width: 100%;
+    min-width: 800px;
+    margin: 0;
+    padding: 0;
+}
+
+
+.chrome-extension {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+.chromeCont {
+    width: 80%;
+    padding: 30px 20px;
+    background-color: #fdedfa;
+}
+
+input{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 6px 3px;
+    border: 1px solid #5f9341;
+    border-radius: 3px;
+}
+
+
+.saveInput, .tab {
+    margin: 0;
+    margin-top: 7px;
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 3px;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: #5f9341;
+    color: white;
+    cursor: pointer;
+}
+
+.delAll {
+    margin: 0;
+    margin-top: 7px;
+    padding: 10px 20px;
+    cursor: pointer;
+    border: 1px solid #5f9341;
+    border-radius: 3px;
+    font-weight: bold;
+    text-transform: uppercase;
+    background-color: white;
+    color: #5f9341;
+    cursor: pointer;
+}
+
+
+ul {
+    margin-top: 10px;
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-top: 5px;
+}
+
+li a {
+    text-decoration: none;
+    color: #5f9341;
+}
